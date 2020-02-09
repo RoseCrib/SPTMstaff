@@ -3,9 +3,9 @@
 #Use "§" as a color symbol
 #Use "\n" to go to the next line
 #The title of the menu
-Title: "§cSP§dTM §7Staff"
+Title: "§cSP§dTM§7Staff"
 #The content of the menu (Description)
-Content: "§4Owners: §7MarioTM04 | KenoZeu \n §aAdmin: §7xRaulGaming180x \n §bMod: §7qKoppe \n §2Helper: §7EdyGamerRo"
+Content: "§4Owners: §7MarioTM04 | KenoZeu \n §aAdmin: §7xRaulGaming180x \n §bMod: §7qKoppe \n §2Helper: §7EdyGamerRo \n \n"
 #Returns button name
-Button: "§6I understand,Staff da best."
+Button: "§aOkaay!!"
 ...
